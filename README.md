@@ -1,4 +1,4 @@
-FraudDetection
+Respiratory disease classification
 ===
 #### Автор:  Айбатуллин Марат
 
